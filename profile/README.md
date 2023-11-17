@@ -22,8 +22,8 @@ Todos os segredos do Hidroject estão guardados em nosso "santuário virtual"; O
 
 "ESPERA... TEM MAIS!?" Pois é, as surpresas não param por aí! Um site repleto de informações, curiosidades e detalhes sobre o projeto está a caminho. Fique atento ao topo da documentação para encontrar o seu portal para essa jornada.
 
-> “Em nós há a Luz da Natureza e essa Luz é Deus.” — Paracelso 1493–1541
+> “A inovação é a única maneira de vencer.” — Steven Paul Jobs 1955–2011
 
 Vamos juntos explorar, aprender e cultivar o verde com o Hidroject. A água é vida, e aqui, ela também é inovação! 💙🌿
 
-> “A inovação é a única maneira de vencer.” — Steven Paul Jobs 1955–2011
+> “Em nós há a Luz da Natureza e essa Luz é Deus.” — Paracelso 1493–1541
