@@ -1,17 +1,31 @@
-## Hidroject! 🌱 - informações
-### Uma breve introdução - em que consiste a nossa organização/projeto?
-Focamos no reaproveitamento faseado da água. Quando a umidade do solo fica abaixo do ideal, a bomba é acionada para irrigar mudas e/ou plantas de pequeno porte em geral. O excesso de água é filtrado e purificado, armazenado em um reservatório de 500ml (até o presente momento) para reutilização. Os não purificados são retidos em filtros e peneiras até a manutenção.
+## Hidroject! 🌱 - Desvendando Nosso Mundo 💦
 
-Para redirecionar a água purificada à planta, utiliza-se um sistema eletrônico empregando tecnologia [Arduino](https://arduino.cc) em placa [Uno](https://store.arduino.cc/products/arduino-uno-rev3), programada via [PlatformIO](https://platformio.org/), extensão do [Visual Studio Code](https://code.visualstudio.com/). Seu código em [C++](https://learn.microsoft.com/pt-br/cpp/cpp/) controla sensores hídricos por meio da biblioteca [Adafruit](https://learn.adafruit.com/dht/overview) [DHT Sensors](https://www.arduino.cc/reference/en/libraries/dht-sensor-library/). Em alternativa, pode-se usar o [IDE gráfico](https://www.arduino.cc/en/software) fornecido pelo próprio [Arduino](https://arduino.cc), caso haja falta de compatibilidade.
+### Explore a Magia do Hidroject: Uma Jornada Única!
 
-Embora a irrigação opere por alguns dias, observa-se a necessidade de intervenção humana para prevenir problemas como entupimentos no motor, entre outras questões. O propósito central do nosso projeto é concentrar esforços na reutilização da água, distinguindo-se assim de outros sistemas já existentes, ao apresentar a capacidade de se configurar como um recurso sustentável. 
+Bem-vindos ao universo do Hidroject, onde a água é nossa aliada e a sustentabilidade é o nosso mantra! Aqui, mergulhamos no fascinante mundo do reaproveitamento da água, transformando cada gota em uma história verde e inovadora.
 
-### Directrizes de contribuição - De que maneira a comunidade pode engajar-se no projeto?
-O empreendimento é conduzido pela comunidade, destinado à comunidade. Almeja-se contribuir? Realize um [fork](https://cursos.alura.com.br/forum/topico-qual-a-diferenca-entre-git-clone-e-o-fork-qual-o-melhor-para-se-usar-147054) do repositório, elabore um [README.md](https://www.alura.com.br/artigos/escrever-bom-readme) expondo suas ideias e proceda com a implementação. Posteriormente, avaliaremos sua solicitação de [pull request](https://www.alura.com.br/conteudo/git-github-branching-conflitos-pull-requests).
+### A Essência do Projeto: Cultivando Vidas, Preservando Águas 💧
 
-### Recursos úteis - Onde a comunidade pode acessar os arquivos e documentos? Existe mais alguma informação que a comunidade deva ter conhecimento?
-Todos os recursos estarão e permanecerão acessíveis em [Hidroject/Hidroject](https://github.com/Hidroject/Hidroject). Ademais, foi confeccionado um protótipo para a feira de ciências do Colégio Estadual Polivalente de Itanhém, utilizando um sistema mecânico em substituição à placa eletrônica, essa sendo esta substituída por um relógio. Este dispositivo ativa a bomba d'água através do toque de seu alarme. O desempenho foi conforme o esperado, realizando com precisão o ciclo da água de acordo com a teoria proposta.
+Imagine um jardim onde a água é tratada como um tesouro. Nosso projeto utiliza tecnologia Arduino para criar um sistema inteligente de irrigação. Quando a terra clama por umidade, nossa tecnologia entra em ação, regando plantas pequenas e mudas, tudo de forma sustentável.
 
-Em breve, será desenvolvido um site  totalmente destinado à divulgação de informações abrangentes, não se limitando exclusivamente ao projeto em questão, mas abarcando também detalhes sobre seus criadores e a própria concepção da ideia. O elo para acesso estará prontamente disponibilizado no ápice da documentação, para aqueles que manifestarem interesse.
+### Nosso Código Verde: Arduino, C++, e a Dança dos Sensores 💻🌿
+
+Por trás do verde exuberante, há uma dança de tecnologia. Utilizamos o Arduino Uno, programado com carinho em C++ via PlatformIO. Sensores hídricos ganham vida com a biblioteca Adafruit DHT Sensors, garantindo um espetáculo de eficiência. E o melhor? Tudo acessível, seja pela magia do Visual Studio Code ou pelo IDE clássico do Arduino.
+
+### Mão na Massa: Semeando Ideias, Colhendo Inovação 🌱🤝
+
+O Refúgio Hidroject é mais do que um projeto; é uma comunidade unida, onde cada membro é uma peça vital no quebra-cabeça da inovação. Aqui, todos podem contribuir! Basta dar um fork no repositório, compartilhar suas ideias no README.md e nos enviar um pull request. Juntos, criamos ondas de mudança.
+
+### Navegando pelos Recursos: O Refúgio Está Aberto para Você 🚀🌐
+
+Todos os segredos do Hidroject estão guardados em nosso "santuário virtual" em [Hidroject/Hidroject](https://github.com/Hidroject/Hidroject), além disso, também temos uma comunidade bastante ativa no Discord!
+
+Mais informações? [Clique aqui](https://discord.gg/MpnJCAuQwb).
+
+ESPERA... As surpresas não param por aí! Um site repleto de informações, curiosidades e detalhes sobre o projeto está a caminho. Fique atento ao topo da documentação para encontrar o seu portal para essa jornada.
 
 > “Em nós há a Luz da Natureza e essa Luz é Deus.” — Paracelso 1493–1541
+
+> “A inovação é a única maneira de vencer.” — Steven Paul Jobs 1955–2011
+
+Vamos juntos explorar, aprender e cultivar o verde com o Hidroject. A água é vida, e aqui, ela também é inovação! 💙🌿
