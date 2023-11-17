@@ -18,7 +18,7 @@ O Refúgio Hidroject é mais do que um projeto; é uma comunidade unida, onde ca
 
 ### Navegando pelos Recursos: O Refúgio Está Aberto para Você 🚀🌐
 
-Todos os segredos do Hidroject estão guardados em nosso "santuário virtual"; O [Hidroject/Hidroject](https://github.com/Hidroject/Hidroject). Além disso, nossa comunidade se reune em um servidor no Discord: O [Refúgio Hidroject](https://discord.gg/MpnJCAuQwb), onde a sustentabilidade se encontra com a inovação e a amizade flui como água límpida. Junte-se se a nós e invista nessa causa! O [Refúgio Hidroject](https://discord.gg/MpnJCAuQwb) é mais do que um servidor, é uma comunidade vibrante de mentes brilhantes com o poder de transformar o mundo. [Clique aqui](https://discord.gg/MpnJCAuQwb) e faça parte já!
+Todos os segredos do Hidroject estão guardados em nosso "santuário virtual"; O [Hidroject/Hidroject](https://github.com/Hidroject/Hidroject). Além disso, nossa comunidade se reune em um servidor no Discord: O [Refúgio Hidroject](https://discord.gg/MpnJCAuQwb), onde a sustentabilidade se encontra com a inovação e a amizade flui como água límpida. Junte-se se a nós e invista nessa causa! O Refúgio Hidroject é mais do que um servidor, é uma comunidade vibrante de mentes brilhantes com o poder de transformar o mundo. [Clique aqui](https://discord.gg/MpnJCAuQwb) e faça parte já!
 
 "ESPERA, TEM MAIS!?" Pois é, as surpresas não param por aí! Um site repleto de informações, curiosidades e detalhes sobre o projeto está a caminho. Fique atento ao topo da documentação para encontrar o seu portal para essa jornada.
 
